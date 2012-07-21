@@ -1,4 +1,4 @@
 require 'rubygems'
 require 'sinatra'
-get('/') { open('index.html').read }
+get('/') { open('public/index.html').read }
 run Sinatra::Application
