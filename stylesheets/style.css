@@ -1,0 +1,24 @@
+body {
+  background-image: url(../images/big_face.png);
+  no-repeat;background-repeat: no-repeat;
+  text-align: right;
+  padding: 20px 20px;
+}
+
+h1 {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 72px;
+  font-weight: bold;
+  line-height: 1;
+  margin: 0;
+  text-shadow: 1px 1px 0px rgba(255, 255, 255, 1);
+}
+
+ul {
+  list-style-type: none;
+  margin-top: 30px;
+}
+
+li {
+  margin: 10px 0px;
+}
